@@ -1,24 +1,3 @@
-/* Name: Tejas Polu
- * Date: 3/28/22
- * Period: 4 
- * 
- * This program took me around 2 hours to complete. 
- * 
- * Is this lab fully working?  Yes
- * If not complete and working, what are you stuck on?  What is your action plan to complete the work?
- * N/A
-
- * Resubmit date, if applicable:
- * (Explain what you fixed and what was wrong)
-
- * Reflection Paragraph:
- * Overall, the program went pretty smoothly. I struggled with understanding
- * the model and controller relationship at first, but once I figured it out it wasn't 
- * too hard. I learned to keep trying things out until you understand 
- * what is going on. I would like to make more complex things next program. 
-
- */
-
 import java.util.Scanner;
 
 public class MSController {

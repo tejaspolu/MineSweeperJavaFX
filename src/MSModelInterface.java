@@ -1,17 +1,3 @@
-/* Name: Tejas Polu
- * Date: 3/22/22
- * Period: 4 
- * 
- * This program took me around 10 minutes to complete. 
- * 
- * Is this lab fully working?  Yes
- * If not complete and working, what are you stuck on?  What is your action plan to complete the work?
-
- * Resubmit date, if applicable:
- * (Explain what you fixed and what was wrong)
- */
-
-
 public interface MSModelInterface {
 	public int getNumRows();
 	public int getNumCols();
