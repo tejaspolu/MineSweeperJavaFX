@@ -1,3 +1,3 @@
 # Minesweeper
 
-Minesweeper made in JavaFX.
+JavaFX Minesweeper.
